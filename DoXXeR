@@ -3,12 +3,12 @@
 while true
 do
 clear
-echo "======                                                             ========"
+echo "======                                                            ========"
 echo "DoXXeR                                                             CS Raves"
 echo "======                                                             ========"
 echo ""
 echo "1. Name Search"
-echo "2. Phone number Search (US)"
+echo "2. 9296091701 (US)"
 echo "3. IP Look UP"
 echo ""
 echo -e "\n"
